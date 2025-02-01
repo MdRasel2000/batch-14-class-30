@@ -1,0 +1,26 @@
+
+
+1.getElementById()
+2.getElementsByClassName()
+3.getElementByTag()
+4.querySelector()
+
+
+
+.............Event.....
+
+1. onclick()
+2. onchange()
+3. onsubmit()
+4. onblur()
+5. onkeyup()
+6  onkeydown()
+7. onmouseover()
+
+.....Convert string to number....
+
+parseInt('77')=> 77
+parseFloat('79.55')=> 79.55
+
+.........DOM........
+Document Object Model
